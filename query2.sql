@@ -8,4 +8,4 @@ SELECT trip_id,
 FROM `bigquery-public-data.san_francisco_bikeshare.bikeshare_trips` 
 WHERE start_date > '2017-01-01'
 
-/* for diagram 2 etc, there is condition that the data taken after 1st of january 2017 */
+/* for diagram 3 etc, there is condition that the data taken after 1st of january 2017 */
