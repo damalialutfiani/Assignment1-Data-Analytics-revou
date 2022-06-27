@@ -6,3 +6,5 @@ SELECT trip_id,
   subscriber_type, 
   member_gender
 FROM `bigquery-public-data.san_francisco_bikeshare.bikeshare_trips` 
+
+/*for diagram 1 and 2, which is all of the time in dataset*/
