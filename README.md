@@ -16,3 +16,5 @@ In this assignment is divided into 2, namely :
 The powerpoint assignment1 (**assignment1.ppt**) file contains answers about *SQL and data visualization*, while the assignment2 (**assignment2.ppt**) file contains answers to the *Python challenge*.
 > The **query1.sql** and **query2.sql** files are *SQL code to prepare data to be visualized*.
 > Then **code_challenge_minicourse.py** is the *source code used to answer the python code challenge*.
+
+-- In this project, we use Google BiqQuery and Google Data Studio for visualization. --
