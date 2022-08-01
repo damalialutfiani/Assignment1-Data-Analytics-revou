@@ -15,11 +15,11 @@ In this assignment is divided into 2, namely :
 1.  SQL + Data Visualization
 2.  Python.
 
-> The powerpoint assignment1 (**ASSIGNMENT1.ppt**) file contains answers about *SQL and data visualization*, while
+> The powerpoint assignment1 (**ASSIGNMENT1.pptx**) file contains answers about *SQL and data visualization*, while
 
 > The PDF (**ASSIGNMENT1.pdf**) file contains same with the PPT version, just different in file format.
 
-> The assignment2 (**ASSIGNMENT2.ppt**) file contains answers to the *Python challenge*.
+> The assignment2 (**ASSIGNMENT2.pptx**) file contains answers to the *Python challenge*.
 
 > The **query1.sql** and **query2.sql** files are *SQL code to prepare data to be visualized*.
 
