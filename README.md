@@ -23,6 +23,8 @@ In this assignment is divided into 2, namely :
 
 > The **query1.sql** and **query2.sql** files are *SQL code to prepare data to be visualized*.
 
-> Then **code_challenge_minicourse.py** is the *source code used to answer the python code challenge*.
+> The **code_challenge_minicourse.py** is the *source code used to answer the python code challenge*.
+
+> Then the **dhea-lutfiani-certificate-completion-damc22.pdf** is a certificate that I got because I have completed and followed the course to the end and can work on a certification on Data Analytics.
 
 -- In this project, we use Google BiqQuery and Google Data Studio for visualization. --
