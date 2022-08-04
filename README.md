@@ -25,6 +25,6 @@ In this assignment is divided into 2, namely :
 
 > The **code_challenge_minicourse.py** is the *source code used to answer the python code challenge*.
 
-> Then the **dhea-lutfiani-certificate-completion-damc22.pdf** is a certificate that I got because I have completed and followed the course to the end and can work on a certification on Data Analytics.
+> Then **dhea-lutfiani-certificate-completion-damc22.pdf** is the certificate that I got because I have completed and followed the course to the end and can do the certification test on Data Analytics.
 
 -- In this project, we use Google BiqQuery and Google Data Studio for visualization. --
