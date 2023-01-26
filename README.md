@@ -10,6 +10,7 @@ The Bay Area Bike Share program was launched in 2013 and is modeled on urban bik
 In October 2016, the system celebrated Who's Woman Month, an attempt to encourage women to ride bicycles. Until the end of this month, you can sign up for 24 hours free to try Bay Area Bike Share.
 
 -- Taken from [TRAASGPU's Website](https://id.traasgpu.com/cara-menggunakan-bay-area-bike-share/) --
+
 -----------------------------------------------------------------------------
 In this assignment is divided into 2, namely :
 1.  SQL + Data Visualization
