@@ -1,7 +1,6 @@
 # San-Francisco-Bikeshare-Trip-Project
+
 Projects to find issues that can be raised, analyze the data from San-Francisco-Bikeshare-Trip to provide insight that can be used for this company.
------------------------------------------------------------------------------
-I created this page to store the results of my work on assignment data analytics from the RevoU mini course. The mini course that I took was on 7 february untill 18 february 2022.
 -----------------------------------------------------------------------------
 **Bike sharing** is a short-term bicycle rental program that offers an easy, affordable and eco-friendly way to go on a quick trip without the need to bring your own bicycle. In Silicon Valley, the Bay Area Bike Share program allows you to rent a bike for 30 minutes or more and use that bike to get from place to place on local trips.
 
@@ -12,6 +11,8 @@ In October 2016, the system celebrated Who's Woman Month, an attempt to encourag
 -- Taken from [TRAASGPU's Website](https://id.traasgpu.com/cara-menggunakan-bay-area-bike-share/) --
 
 -----------------------------------------------------------------------------
+#### This page is used to store the results of my work on assignment data analytics from the RevoU mini course. The mini course that I took was on 7 february untill 18 february 2022. ####
+
 In this assignment is divided into 2, namely :
 1.  SQL + Data Visualization
 2.  Python.
