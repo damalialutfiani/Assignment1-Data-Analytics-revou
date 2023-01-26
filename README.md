@@ -16,17 +16,19 @@ In this assignment is divided into 2, namely :
 1.  SQL + Data Visualization
 2.  Python.
 
-> The powerpoint assignment1 (**ASSIGNMENT1.pptx**) file contains answers about *SQL and data visualization*, while
+And here is a description of the file used  :
 
-> The PDF (**ASSIGNMENT1.pdf**) file contains same with the PPT version, just different in file format.
+1.  The powerpoint assignment1 (**ASSIGNMENT1.pptx**) file contains answers about *SQL and data visualization*, while
 
-> The assignment2 (**ASSIGNMENT2.pptx**) file contains answers to the *Python challenge*.
+2.  The PDF (**ASSIGNMENT1.pdf**) file contains same with the PPT version, just different in file format.
 
-> The **query1.sql** and **query2.sql** files are *SQL code to prepare data to be visualized*.
+3.  The assignment2 (**ASSIGNMENT2.pptx**) file contains answers to the *Python challenge*.
 
-> The **code_challenge_minicourse.py** is the *source code used to answer the python code challenge*.
+4.  The **query1.sql** and **query2.sql** files are *SQL code to prepare data to be visualized*.
 
-> Then **dhea-lutfiani-certificate-completion-damc22.pdf** is the certificate that I got because I have completed and followed the course to the end and can do the certification test on Data Analytics.
+5.  The **code_challenge_minicourse.py** is the *source code used to answer the python code challenge*.
+
+6.  Then **dhea-lutfiani-certificate-completion-damc22.pdf** is the certificate that I got because I have completed and followed the course to the end and can do the certification test on Data Analytics.
 
 #### [NOTES!] In this project, we use Google BiqQuery and Google Data Studio for visualization. ####
 
